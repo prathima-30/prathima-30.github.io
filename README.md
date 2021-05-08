@@ -19,7 +19,7 @@
 ## ACEDAMIC PROJECTS
 
 
-![bankingprojectjava](https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg)
+![bankingprojectjava](https://tse4.mm.bing.net/th?id=OIP.BaMYOhl_HG8KLLUwLR0HewHaDq&pid=Api&P=0&w=366&h=182)
 > **Banking Project** 
 > 
 > - Duration: 1 week
@@ -30,16 +30,7 @@
 > Used Object Oriented Programming to design and test the project
 > The type of transaction and the amount are given as inputs to the system. After the completion of each transaction. The program displays the balance. It also displays various error messages
 
-![healthandwellness](https://news.blrstage.com/app/uploads/sites/3/2018/05/Mental-health-5.jpg)
-> **Web Page Design** 
-> 
-> - Duration: 1 week
-> - Role: Individual project
-> - Technology: HTML-CSS
-> - Description: 
-> Designed and developed a web page on Health and Wellness
-> Used HTML and CSS to design, develop and present the webpage
-> Users can learn the importance of mental and physical health by reading the content and by watching the videos
+
 
 ## INTERESTS
 > - Classical Dance
