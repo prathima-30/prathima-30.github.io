@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Prathima Avula
+## Student at MSIT                                                
 
-You can use the [editor on GitHub](https://github.com/prathima-30/prathima-30.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do. I am dedicated to perfectly my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that I can about development.**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Mobile: +91 7993291982
 
-```markdown
-Syntax highlighted code block
+> E-mail: prathima.avula@gmail.com
 
-# Header 1
-## Header 2
-### Header 3
+> LinkedIn: [https://www.linkedin.com/in/prathima-a/](https://www.linkedin.com/in/prathima-a/)
 
-- Bulleted
-- List
+## SKILLS
+- **Python** : Designed and developed a team project using object oriented programming Used TKINTER (open source) for GUI Conducted testing
+- **JAVA** : Developed 2 projects using object oriented programming Tested 2 projects and analyzed the results
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## ACEDAMIC PROJECTS
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![bankingprojectjava](https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg)
+> **Banking Project** 
+> 
+> - Duration: 1 week
+> - Role: Individual project
+> - Technology: JAVA
+> - Description: 
+> Designed a program that stores customer information of a bank
+> Used Object Oriented Programming to design and test the project
+> The type of transaction and the amount are given as inputs to the system. After the completion of each transaction. The program displays the balance. It also displays various error messages
 
-### Jekyll Themes
+![healthandwellness](https://news.blrstage.com/app/uploads/sites/3/2018/05/Mental-health-5.jpg)
+> **Web Page Design** 
+> 
+> - Duration: 1 week
+> - Role: Individual project
+> - Technology: HTML-CSS
+> - Description: 
+> Designed and developed a web page on Health and Wellness
+> Used HTML and CSS to design, develop and present the webpage
+> Users can learn the importance of mental and physical health by reading the content and by watching the videos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prathima-30/prathima-30.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## INTERESTS
+> - Classical Dance
+> - Arts 
+> - Travelling
